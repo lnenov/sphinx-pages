@@ -1,0 +1,10 @@
+.wy-nav-content {
+    max-width: none !important;
+}
+
+.wy-table-responsive td, .wy-table-responsive th {
+    word-wrap: break-word !important;
+    white-space: -moz-pre-wrap !important; /* Firefox 1.0-2.0 */
+    white-space: pre-wrap !important;      /* current browsers */
+    overflow: auto !important;
+}
